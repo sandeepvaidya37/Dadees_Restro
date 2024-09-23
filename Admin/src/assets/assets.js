@@ -14,4 +14,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = 'https://dadees-restro-backend.onrender.com'
+export const url = "https://dadees-restro-backend.onrender.com"
